@@ -1,0 +1,15 @@
+D:\RiderProjects\SecondTask\SecondTask\bin\Debug\net6.0\SecondTask.exe
+D:\RiderProjects\SecondTask\SecondTask\bin\Debug\net6.0\SecondTask.deps.json
+D:\RiderProjects\SecondTask\SecondTask\bin\Debug\net6.0\SecondTask.runtimeconfig.json
+D:\RiderProjects\SecondTask\SecondTask\bin\Debug\net6.0\SecondTask.dll
+D:\RiderProjects\SecondTask\SecondTask\bin\Debug\net6.0\SecondTask.pdb
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.csproj.AssemblyReference.cache
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfoInputs.cache
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfo.cs
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.dll
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\refint\SecondTask.dll
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.pdb
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\SecondTask.genruntimeconfig.cache
+D:\RiderProjects\SecondTask\SecondTask\obj\Debug\net6.0\ref\SecondTask.dll
